@@ -2,6 +2,7 @@
 The aim of this project is to build an intelligent system that classifies SMS messages as either spam or ham (not spam) using Natural Language Processing (NLP) techniques and traditional Machine Learning models. The focus is on end-to-end implementation: from preprocessing text data to evaluating model performance using real-world metrics
 
 🔍 What We Did:
+
 Data Cleaning: Removed duplicates and ensured data quality.
 
 Text Preprocessing: Tokenized messages, removed stopwords, and applied lemmatization to normalize text.
@@ -17,6 +18,7 @@ Model Training: Trained two machine learning models:
 Model Evaluation: Evaluated using accuracy, precision, recall, and F1-score. Achieved ~97% accuracy with Naive Bayes and ~95% with Logistic Regression.
 
 🌍 Real-World Applications:
+
 > Spam detection in email services.
 
 > Filtering promotional or phishing SMS.
@@ -26,6 +28,7 @@ Model Evaluation: Evaluated using accuracy, precision, recall, and F1-score. Ach
 
 
 ✅ Why This Project is Valuable:
+
 > Uses practical, real-world data.
 
 > Showcases classic NLP and ML workflows.
